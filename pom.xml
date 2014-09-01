@@ -6,7 +6,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:yxypriv/hw0-xingyuy.git</connection>
 		<developerConnection>scm:git:git@github.com:yxypriv/hw0-xingyuy.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>hw0-xingyuy-0.0.3</tag>
   </scm>
 	<repositories>
 		<repository>
