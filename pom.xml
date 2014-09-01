@@ -7,7 +7,6 @@
 		<connection>scm:git:git@github.com:yxypriv/hw0-xingyuy.git</connection>
 		<developerConnection>scm:git:git@github.com:yxypriv/hw0-xingyuy.git</developerConnection>
 	  <tag>hw0-xingyuy-0.0.5</tag>
-	  <url>scm:git:git@github.com:yxypriv/hw0-xingyuy.git</url>
 	</scm>
 	<repositories>
 		<repository>
