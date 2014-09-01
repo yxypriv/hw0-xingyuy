@@ -10,7 +10,9 @@ public class DependencyExample {
     public static void main(String[] args) {
         TokenizerFactory<Word> factory = PTBTokenizerFactory.newTokenizerFactory();
         Tokenizer<Word> tokenizer = factory.getTokenizer(new StringReader(args[0]));
-        System.out.println(tokenizer.tokenize());
+        for(Word w : tokenizer.tokenize()) {
+        	System.out.println(w.toString());
+        }
     }
 
 }
